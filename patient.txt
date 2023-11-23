@@ -1,0 +1,9 @@
+1,rahla,23,cvd,1
+2,rela,45,pw,4
+3,sree,12,child,3
+4,den,45,pw,4
+5,ann,23,cvd,1
+6,grees,45,ot,5
+7,green,45,ot,5
+8,flu,13,cvd,2
+9,rahla,12,child,3
